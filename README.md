@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @GeorgeLuis8907
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, me  llamo Jorge  Luis Gonzalez 
+- 👀 Actualmente estoy interesaso en la tecnología y el maravilloso mundo de la WEB.
+- 🌱 Trato de cuidar el medio ambiente y todo los que nos brinda la madre tierra!!
+- 📫 Algun día me gustaria  llegar hacer programador FullStack y presiento que mi corazoncito se va más por el lado Frontend de la WEB.
+- 👨‍🦳 Se que nada es para siempre así que gustaría poner mi granito de arena con la gente nueva que esta comenzando en el mundo de la programación en ayudarlos en lo que se pueda.
 
 <!---
-GeorgeLuis8907/GeorgeLuis8907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Gracias a todos!!
 --->
